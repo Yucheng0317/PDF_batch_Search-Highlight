@@ -1,0 +1,2 @@
+# PDF_batch_Search-Highlight
+在PDF文档中批量查找另个文档中短语并高亮的小工具
